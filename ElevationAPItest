@@ -6,7 +6,7 @@ import googlemaps
 import googlemaps.test as _test
 
 def setUp(self):
-    self.key = 'AIzaasdf'
+    self.key = 'AIzaSyDjTjrZdOAQ2hZ4fTo-jyqO5wXs1FqptBY'
     self.client = googlemaps.Client(self.key)
     
     results = self.client.elevation_along_path(path, 25)
