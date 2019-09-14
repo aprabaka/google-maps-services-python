@@ -1,0 +1,12 @@
+import datetime
+
+import responses
+
+import googlemaps
+import googlemaps.test as _test
+
+def setUp(self):
+    self.key = 'AIzaasdf'
+    self.client = googlemaps.Client(self.key)
+    
+    results = self.client.elevation((40.714728, -73.998672))
