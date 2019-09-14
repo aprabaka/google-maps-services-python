@@ -6,6 +6,7 @@ Python Client for Google Maps Services
 [![PyPI version](https://badge.fury.io/py/googlemaps.svg)](https://badge.fury.io/py/googlemaps)
 ![PyPI - Downloads](https://img.shields.io/pypi/dd/googlemaps)
 ![GitHub contributors](https://img.shields.io/github/contributors/googlemaps/google-maps-services-python)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aprabaka/google-maps-services-python/master)
 
 ## Description
 
